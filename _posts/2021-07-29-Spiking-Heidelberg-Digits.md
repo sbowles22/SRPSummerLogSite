@@ -27,8 +27,8 @@ This dataset was chosen because it is bigger than the Boston housing dataset com
 * A 200 epoch run was able to produce:
 
   ```python
-  Training accuracy: !AWAITING RESULTS!
-  Test accuracy: !AWAITING RESULTS!
+  Training accuracy: 0.983
+  Test accuracy: 0.626
   ```
 
   ![SHD 200 epoch graph](https://raw.githubusercontent.com/sbowles22/SRPSummerLogSite/master/images/shd_200.png)	
